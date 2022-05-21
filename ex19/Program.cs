@@ -30,5 +30,5 @@ if (newValue == oldValue)
     Console.WriteLine("Число является палиндромом");
 else
     Console.WriteLine("Число не является палиндромом");
-
+    
 
